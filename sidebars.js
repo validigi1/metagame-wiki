@@ -56,7 +56,7 @@ module.exports = {
       "playbooks/how-to-git-on-github-non-builder",
       "playbooks/how-to-build-a-network-for-impact",
       "playbooks/handling-fomo-in-web3",
-      "playbooks/creating-new-economy-with-daos",
+      "playbooks/new-economy-with-daos",
     ],
   },
 };
